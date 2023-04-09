@@ -2,6 +2,20 @@
 
 This is an Android application designed to help users track their workout routine and maintain a healthy lifestyle. The app has several features such as calculating BMI and tracking the history of exercise by storing the time and date.
 
+
+<div style="display:flex; justify-content:center; align-items:center;">
+  <img src="Screenshot1.jpg" alt="Photo 1" width="250" height="450">
+  <img src="Screenshot2.jpg" alt="Photo 1" width="250" height="450">
+  <img src="Screenshot3.jpg" alt="Photo 1" width="250" height="450">
+  <img src="Screenshot4.jpg" alt="Photo 1" width="250" height="450">
+  <img src="Screenshot5.jpg" alt="Photo 1" width="250" height="450">
+  <img src="Screenshot6.jpg" alt="Photo 1" width="250" height="450">
+  <img src="Screenshot7.jpg" alt="Photo 1" width="250" height="450">
+  <img src="Screenshot8.jpg" alt="Photo 1" width="250" height="450">
+  <img src="Screenshot9.jpg" alt="Photo 1" width="250" height="450">
+</div>
+
+
 ## Features
 
 * **Workout Tracker**: Users can create and track their workout routine by adding exercises, sets, and reps. They can also view their progress and set goals to achieve their fitness targets.
